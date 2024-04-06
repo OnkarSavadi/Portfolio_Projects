@@ -1,4 +1,4 @@
-# Portfolio_Projects
+# Portfolio_Projects_Summary
 Guide to my data analytics projects
 
 ## 📚 Table of Contents
