@@ -10,7 +10,7 @@ Guide to my data analytics projects
 
 | Project Link | Tools | Area | Project Description |
 |---|---|---|---|
-| [Target Case Study]([https://github.com/OnkarSavadi/Target_SQL](https://github.com/OnkarSavadi/Data_Analytics_Projects/blob/main/Target_SQL_Analysis/Target%20SQL%20Business%20Case%20Study.pdf)) | BigQuery,PowerBI | SQL, Data Analysis & Data Visualisation | Exploring E-commerce Trends and Customer Behaviour. An exploratory and in-depth study of the e-commerce market in Brazil. |
+| [Target Case Study](https://github.com/OnkarSavadi/Data_Analytics_Projects/tree/main/Target_SQL_Analysis) | BigQuery,PowerBI | SQL, Data Analysis & Data Visualisation | Exploring E-commerce Trends and Customer Behaviour. An exploratory and in-depth study of the e-commerce market in Brazil. |
 
 # Python
 
